@@ -12,8 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ashish-kumar-253194299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-kumar-253194299" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@ashukrashish2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashukrashish2001" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ashish1003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashish1003" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ashukrashish2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashukrashish2001" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Ashishydv26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashish1003" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ashukrashisiwp6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ashukrashisiwp6" height="30" width="40" /></a>
 </p>
 
